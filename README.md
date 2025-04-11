@@ -1,18 +1,21 @@
 # Hi there! 👋 I'm Rakshan, an Aerospace Admirer 🚀
 
-<img src="https://github.com/tech-lover-1510/tech-lover-1510/blob/main/banner1" alt="Banner" width="100%" height="300"/>
+<p align="center">
+  <img src="https://github.com/tech-lover-1510/tech-lover-1510/blob/main/banner1" alt="Banner" width="100%" height="300"/>
+</p>
 
-<p align="justify">
-> "In the skies, there are no limits—just coordinates waiting to be conquered."
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20MATLAB%20%7C%20C-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
 
-I’m a 3rd-year Aerospace Engineering student with a fire for flying machines and a deep obsession with control systems. From **swarm drones** to **hydrofoils**, I design and build vehicles that think fast, fly smooth, and move smart.
+> 🧭 *“In the skies, there are no limits—just coordinates waiting to be conquered.”*
+
+I'm a 3rd-year Aerospace Engineering student with a fire for flying machines and a deep obsession with control systems. From **swarm drones** to **hydrofoils**, I design and build vehicles that think fast, fly smooth, and move smart.
 
 With hands-on experience in **UAV dynamics**, **Simulink-based control**, and **embedded systems**, I bridge the gap between code and craft—crafting systems that don’t just work, but perform. Whether it’s prototyping with STM32 boards or simulating multi-agent flight behaviors, I dive deep and deliver.
 
-I believe engineering isn’t just about solving problems—it's about reimagining what's possible.
-
+I believe engineering isn’t just about solving problems — it's about reimagining what's possible.  
 Let’s build the future. 🛸
-</p>
 
 ---
 
@@ -20,7 +23,8 @@ Let’s build the future. 🛸
 
 ### 👨‍💻 Programming Languages
 - Python  
-- MATLAB
+- MATLAB  
+- C
 
 ### 🎨 Designing & Simulation Tools
 - AutoCAD  
@@ -56,8 +60,8 @@ Let’s build the future. 🛸
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshan-VP&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshan-VP&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-lover-1510&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-lover-1510&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -71,5 +75,6 @@ Let’s build the future. 🛸
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rakshan-VP.Rakshan-VP" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tech-lover-1510.tech-lover-1510" alt="Visitors"/>
 </p>
+
