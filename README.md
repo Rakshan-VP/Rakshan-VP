@@ -1,3 +1,5 @@
+![LinkedIn Banner](https://github.com/user-attachments/assets/c85d781f-6329-4b7c-865f-61183873817b)
+
 # 💫 Hello World! I'm Rakshan — a Passionate Engineer:
 
 - 🎓 Final-year B.Tech Aerospace Engineering student driven by innovation  
