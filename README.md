@@ -27,10 +27,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshan-VP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshan-VP&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rakshan-VP&show_icons=true&theme=dark&hide_border=false"
+    width="50%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshan-VP&layout=compact&theme=dark&hide_border=false"
+    width="45%"
+  />
 </p>
-
 
 ## 💻 Tech Stack:
 
