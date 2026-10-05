@@ -7,8 +7,8 @@ Master’s student in Aerospace Engineering at IIT Madras, working at the inters
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rakshan-VP&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Rakshan-VP&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Rakshan-VP&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Rakshan-VP&theme=dark&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
