@@ -11,8 +11,4 @@ Master’s student in Aerospace Engineering at IIT Madras, working at the inters
   <img src="https://streak-stats.demolab.com/?user=Rakshan-VP&theme=dark&hide_border=false" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rakshan-VP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-</p>
-
 ---
